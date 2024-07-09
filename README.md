@@ -1,9 +1,9 @@
 # Stock Price Prediction Using LSTM
 
-This project predicts the high stock prices for a company using historical stock data. The model uses data from Yahoo Finance spaning eight years for training (up to December 2021) and the year 2022 for testing. The prediction model is built using an LSTM network.
+This project predicts the next day's high stock price for a company using historical stock data. The model uses data from Yahoo Finance spaning eight years for training (up to December 2021) and the year 2022 for testing. The prediction model is built using an LSTM network.
 
 Result:
-![alt text](image.png)
+![Prediction](prediction.png)
 
 ## Prerequisites
 - Python 3.12.0
